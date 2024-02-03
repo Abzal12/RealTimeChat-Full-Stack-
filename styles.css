@@ -16,6 +16,8 @@ body {
     height: 80%;
     margin: 10px 0 0 15px;
     background-color: white;
+    overflow-y: auto;
+    overflow-x: hidden;
 }
 
 .message {
